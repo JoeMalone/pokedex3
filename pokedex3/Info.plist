@@ -34,5 +34,35 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>pokemon.ttf</string>
+		<string>SFText-Semibold.otf</string>
+		<string>SFText-SemiboldItalic.otf</string>
+		<string>SFText-RegularItalic.otf</string>
+		<string>SFText-Regular.otf</string>
+		<string>SFText-MediumItalic.otf</string>
+		<string>SFDisplay-Semibold.otf</string>
+		<string>SFText-Medium.otf</string>
+		<string>SFText-LightItalic.otf</string>
+		<string>SFText-Light.otf</string>
+		<string>SFText-HeavyItalic.otf</string>
+		<string>SFDisplay-Thin.otf</string>
+		<string>SFDisplay-Ultralight.otf</string>
+		<string>SFText-Bold.otf</string>
+		<string>SFText-BoldItalic.otf</string>
+		<string>SFText-Heavy.otf</string>
+		<string>SFDisplay-Black.otf</string>
+		<string>SFDisplay-Bold.otf</string>
+		<string>SFDisplay-Heavy.otf</string>
+		<string>SFDisplay-Light.otf</string>
+		<string>SFDisplay-Medium.otf</string>
+		<string>SFDisplay-Regular.otf</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
